@@ -38,11 +38,12 @@ We gratefully acknowledge the authors of [Graph U-Nets](https://github.com/Hongy
 If you find this work helpful, please cite:
 
 ```bibtex
-@article{ma2024st,
-  title={ST-USleepNet: A spatial-temporal coupling prominence network for multi-channel sleep staging},
+@inproceedings{ma2025st,
+  title={ST-USleepNet: a spatial-temporal coupling prominence network for multi-channel sleep staging},
   author={Ma, Jingying and Lin, Qika and Jia, Ziyu and Feng, Mengling},
-  journal={arXiv preprint arXiv:2408.11884},
-  year={2024}
+  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
+  pages={4182--4190},
+  year={2025}
 }
 ```
 
